@@ -12,7 +12,7 @@ This project predicts house prices using Machine Learning (Linear Regression).
 
 ### Output Screenshots
 
-![Output](Task1_Boston_House_Price/housingss1.png)
-![Output](Task1_Boston_House_Price/housingss2.png)
-![Graph](Task1_Boston_House_Price/housingss3.png)
+![Output](Task1_Boston_House_Price/housing%20ss1.png)
+![Output](Task1_Boston_House_Price/housing%20ss%202.png)
+![Graph](Task1_Boston_House_Price/housing%20ss%203.png)
 
