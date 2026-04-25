@@ -11,9 +11,9 @@ This project predicts house prices using Machine Learning (Linear Regression).
 
 ---
 ## Output Screenshots
-![Output](raw.githubusercontent.com/Siddhipoojary/ShadowFox/main/Task1_Boston_House_Price/housing%20ss1.png)
-![Output](raw.githubusercontent.com/Siddhipoojary/ShadowFox/main/Task1_Boston_House_Price/housing%20ss%202.png)
-![Output](raw.githubusercontent.com/Siddhipoojary/ShadowFox/main/Task1_Boston_House_Price/housing%20ss%203.png)
+![Output](https://raw.githubusercontent.com/Siddhipoojary/ShadowFox/main/Task1_Boston_House_Price/housing%20ss1.png)
+![Output](https://raw.githubusercontent.com/Siddhipoojary/ShadowFox/main/Task1_Boston_House_Price/housing%20ss%202.png)
+![Output](https://raw.githubusercontent.com/Siddhipoojary/ShadowFox/main/Task1_Boston_House_Price/housing%20ss%203.png)
 
 ---
 
