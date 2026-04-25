@@ -1,6 +1,6 @@
 # ShadowFox Internship Tasks
 
-## Task 1: Boston House Price Prediction
+## Task 1: Boston House Price Prediction(Beginner)
 This project predicts house prices using Machine Learning (Linear Regression).
 
 ### Steps:
@@ -18,7 +18,7 @@ This project predicts house prices using Machine Learning (Linear Regression).
 ---
 
 
-## Task 2: Car Price Prediction
+## Task 2: Car Price Prediction(Intermediate)
 This project predicts car prices using Machine Learning (Linear Regression).
 
 ### Steps:
