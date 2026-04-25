@@ -10,6 +10,13 @@ This project predicts house prices using Machine Learning (Linear Regression).
 - Evaluation using MSE and R2 score  
 
 ---
+## Output Screenshots
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task1_Boston_House_Price/housing%20ss1.png])
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task1_Boston_House_Price/housing%20ss%202.png])
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task1_Boston_House_Price/housing%20ss%203.png])
+
+---
+
 
 ## Task 2: Car Price Prediction
 This project predicts car prices using Machine Learning (Linear Regression).
@@ -34,10 +41,12 @@ This project predicts car prices using Machine Learning (Linear Regression).
 ---
 
 ## Output Screenshots
-(Add your screenshots here)
-
-Example:
-![Output](image1.png)
+## Output Screenshots
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task2_Car_Price_Prediction/car_graph.png])
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task2_Car_Price_Prediction/car_graph2.png])
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task2_Car_Price_Prediction/car_graph3.png])
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task2_Car_Price_Prediction/car_output1.png])
+![Output]([https://github.com/Siddhipoojary/ShadowFox/blob/main/Task2_Car_Price_Prediction/car_output2.png])
 
 ---
 
